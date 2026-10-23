@@ -1,7 +1,7 @@
 language: node_js
 sudo: false
 node_js:
-  - '8'
+  - '22.23.4'
 
 cache:
   yarn: true
